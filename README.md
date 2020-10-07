@@ -9,7 +9,7 @@ If you're on Arch Linux, there is a package in the AUR called `notion-app`.
 
 ## How?
 
-The electron sources are pulled out of the Mac OSX dmg and then ran with a Linux version of Electron, yeah, it's that easy.
+The electron sources are pulled out of the Windows exe and then ran with a Linux version of Electron, yeah, it's that easy.
 
 ## Customizing
 
