@@ -1,6 +1,7 @@
 # Notion for Linux
 
 This is a meta repo that contains scripts / stuff needed to build Notion for Linux
+This fork is just a modification of jaredallard/notion-app that uses the windows release of Notion, which is currently updated more frequently
 
 ## Alternatives
 
